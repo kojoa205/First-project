@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.CustomBrowser": "microsoft-edge",
+    "liveServer.settings.useWebExt": true,
+    "liveServer.settings.useLocalIp": true
+}
